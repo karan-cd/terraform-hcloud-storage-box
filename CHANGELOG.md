@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/karan-cd/terraform-hcloud-storage-box/compare/v1.0.0...v1.1.0) (2026-06-30)
+
+
+### Features
+
+* added the workflow yml ([d0800a9](https://github.com/karan-cd/terraform-hcloud-storage-box/commit/d0800a9f1d8ee2bcb87edb51bb60e7e03850ebf2))
+* added the workflow yml ([ce94ab3](https://github.com/karan-cd/terraform-hcloud-storage-box/commit/ce94ab302b3e25569ea4497c35ba7801b7c2cd73))
+
 # 1.0.0 (2026-06-30)
 
 
